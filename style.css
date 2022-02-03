@@ -3218,7 +3218,7 @@ input[type=checkbox]{
 
 
 #preloader{
-  background: rgba(218, 165, 32, 0.966) url('./images/Loader.gif') no-repeat center center;
+  background: #e5eff1 url('./images/Loader.gif') no-repeat center center;
   background-size: 20%;
   height: 100vh;
   width: 100%;
