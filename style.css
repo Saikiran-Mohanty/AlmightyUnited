@@ -15,7 +15,7 @@ contact Us - hellosai090@gmail.com */
 .header{
   padding: 12px 0;
   /* background-color: var(--dark-light); */
-  position: fixed;
+  position: absolute;
   left: 0;
   top: 0;
   z-index: 99;
@@ -129,7 +129,7 @@ contact Us - hellosai090@gmail.com */
 /* ------------ */
  .u-section-1 {
    position: relative;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Header-1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Header-2.jpg");
   background-position: 50% 50%;
 }
 
@@ -3093,7 +3093,7 @@ contact Us - hellosai090@gmail.com */
 
 /* ---------------Navbar-------------------- */
 .nav-head{
-  position: fixed;
+  position:absolute;
   z-index: 100;
   width: 100vw;
 }
