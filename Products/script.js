@@ -1,8 +1,11 @@
+/* Almity United Designed by Saikiran Mohanty and Atish Kumar Moharana
+contact Us - hellosai090@gmail.com */
 
+// ===============================================================================
 // -------------Whatsapp Integration--------------
 function textencode(title){
     let str="Hello, I would like to buy "+title+" from you";
-    let url="https://wa.me/9876543210?text=";
+    let url="https://wa.me/8249063374?text=";//Your Business Whatsapp Number Here
     let encoded =url + encodeURIComponent(str);
     return encoded;
 }

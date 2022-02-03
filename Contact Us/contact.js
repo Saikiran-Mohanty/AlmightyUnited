@@ -1,3 +1,5 @@
+/* Almity United Designed by Saikiran Mohanty and Atish Kumar Moharana
+contact Us - hellosai090@gmail.com */
 let locate= ()=>{
   
     const lat = 13.092350;
